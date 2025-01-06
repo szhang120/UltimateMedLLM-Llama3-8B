@@ -1,1 +1,1 @@
-![Project Poster](CS224n - Poster.png)
+![Project Poster](CS224N_poster.png)
